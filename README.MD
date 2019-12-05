@@ -1,0 +1,2 @@
+## RS evening talk
+"Talk is cheap. Show me the code" (Linus Torvalds) 
