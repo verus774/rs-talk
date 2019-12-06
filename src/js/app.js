@@ -1,4 +1,5 @@
-import {getImgUrl, drawImg} from './canvas.js';
+import {drawImg} from './canvas.js';
+import {getImgUrl} from './api.js';
 
 const canvas = document.querySelector('#mainCanvas');
 const ctx = canvas.getContext('2d');
